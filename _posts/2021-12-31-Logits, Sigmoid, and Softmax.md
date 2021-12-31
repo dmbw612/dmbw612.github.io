@@ -1,8 +1,7 @@
 ---
 layout: single
-title:  "3. Logits, Sigmoid, and Softmax"
 use_math: true
-
+title:  "2. Logits, Sigmoid, and Softmax"
 ---
 
 
