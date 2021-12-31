@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "001-First Blog: Welcome to Jekyll!"
+title:  "1-First Blog: Welcome to Jekyll!"
 ---
 
 # Welcome
@@ -9,4 +9,4 @@ title:  "001-First Blog: Welcome to Jekyll!"
 
 I hope you like it!
 
-한글이 가능한지 확인중입니다.
+한글이 사용 가능한지 확인중입니다.
