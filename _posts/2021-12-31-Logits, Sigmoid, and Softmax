@@ -1,0 +1,6 @@
+---
+layout: single
+title:  "2. Logits, Sigmoid, and Softmax"
+---
+
+어떤 사건 A에 대해서 p_a = P(A)
