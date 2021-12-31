@@ -1,6 +1,7 @@
 ---
 layout: single
-title:  "1-First Blog: Welcome to Jekyll!"
+title:  "1. First Blog!"
+
 ---
 
 # Welcome
