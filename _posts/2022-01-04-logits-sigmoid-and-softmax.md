@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "(2) Logits, Sigmoid, and Softmax"
+use_math: true
 ---
 
 발생할 수 있는 전체 사건이 A, B인 환경을 생각해보자. 
