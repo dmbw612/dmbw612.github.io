@@ -1,8 +1,9 @@
 ---
+layout: single
 title:  "2. Logits, Sigmoid, and Softmax"
 ---
 
-
+**AA**
 발생할 수 있는 전체 사건이 A, B인 환경을 생각해보자. 
 
 어떤 사건 A가 발생할 확률 $P(A) = p_a = p$라고 하면, 
