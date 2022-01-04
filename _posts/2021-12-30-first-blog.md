@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "1. First Blog!"
+title:  "(1) First Blog!"
 
 ---
 
